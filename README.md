@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Xin chào! Mình là Trương Thế Cảnh (CanhTruongKool) một lập trình viên Back-End và di động
 
-<!--
-**CanhTruongKool/CanhTruongKool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Mục tiêu của mình là phát triển hệ thống hiệu quả, có khả năng mở rộng và tuân thủ kiến trúc phần mềm sạch.
 
-Here are some ideas to get you started:
+## 💼 Kinh nghiệm
+- 🖥️ 1.5 năm phát triển web với .NET
+- 📱 0.5 năm phát triển mobile với Java & Flutter
+- ☁️ Cơ bản về triển khai hệ thống trên Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Kỹ năng
+- .NET, ASP.NET MVC/API
+- Java, Flutter
+- SQL Server, Azure
+- Git, GitHub
+- RabbitMQ, SignalR
+- Database design
+- OOP, Design Patterns, Clean Architecture
+- Project management with Jira and ClickUp
+
+## 📌 Dự án tiêu biểu
+
+### Smart Menu
+Ứng dụng đa nền tảng hỗ trợ tạo & quản lý thực đơn số  
+Công nghệ: .NET, React, Flutter, AI
+
+### FIT Management
+Hệ thống quản lý hoạt động CLB  
+Công nghệ: .NET, React, SignalR, RabbitMQ
+
+## 📫 Kết nối với mình
+- Email: canhtruong2412@gmail.com
+- GitHub: https://github.com/CanhTruongKool
+- Phone/Zalo: 0982669125
